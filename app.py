@@ -5,7 +5,7 @@ import gspread
 from datetime import datetime, timedelta
 
 # 1. CONFIGURACIÓN DE PÁGINA
-st.set_page_config(page_title="ADIVINABOT:TECNO ADIVINANZAS MACHINE", page_icon="🤖")
+st.set_page_config(page_title="ADIVINABOT:TECNO ADIVINANZAS MACHINE 2", page_icon="🤖")
 
 # --- DISEÑO  ---
 st.markdown(f"""
